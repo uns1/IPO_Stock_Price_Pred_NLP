@@ -1,1 +1,1 @@
-# Intro_Analytics
+# Fundamental of Analytics - Twitter Sentiment Analysis for IPO Stocks
